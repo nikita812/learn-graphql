@@ -30,4 +30,4 @@ There are three different series:
 
 ## Contributing
 
-Check out our [contributing guide](CONTRIBUTING.md) for more details.
+Go and check out our [contributing guide](CONTRIBUTING.md) for more details.
